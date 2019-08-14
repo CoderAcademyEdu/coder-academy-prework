@@ -1,6 +1,4 @@
-```
 `Please complete this prework before the start of the course to the best of your ability. These tutorial tools will help introduce you to the command line, HTML/CSS and Ruby.`
-```
 
 <br>
 
@@ -82,4 +80,4 @@ Please sign up for a Github account.
 
 <hr>
 
-Feel free to reach out on Slack if you have any questions about the course or if you are stuck with a specific part of the pre-course materials. Your fellow classmates as well as teachers might have already run into the same problem and will be able to assist you.
+`Feel free to reach out on Slack if you have any questions about the course or if you are stuck with a specific part of the pre-course materials. Your fellow classmates as well as teachers might have already run into the same problem and will be able to assist you.`
