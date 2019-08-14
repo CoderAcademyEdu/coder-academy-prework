@@ -1,4 +1,8 @@
+```
 Please complete this prework before the start of the course to the best of your ability. These tutorial tools will help introduce you to the command line, HTML/CSS and Ruby.
+```
+
+<br>
 
 # Command Line
 
@@ -6,12 +10,16 @@ The command line is a text interface for your computer. It's a program that take
 
 * **Complete all free components:** [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
 
+<br>
+
 # HTML/CSS
 
 HTML and CSS are the basic building blocks of websites. If you get through the following tutorials it will set you up for success in the bootcamp course.
 
 * [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * [Learn CSS](https://www.codecademy.com/learn/learn-css)
+
+<br>
 
 # Try Ruby
 
@@ -24,15 +32,21 @@ Then, pick one of these and read through as much as you can:
 * [https://pine.fm/LearnToProgram/chap_00.html](https://pine.fm/LearnToProgram/chap_00.html)
 * [https://poignant.guide/book/chapter-1.html](https://poignant.guide/book/chapter-1.html)
 
+<br>
+
 # Touch Typing
 
 Test out how fast you type, some of our staff can type over 100 words per minute!
 
 * [https://www.keyhero.com/free-typing-test/](https://www.keyhero.com/free-typing-test/)
 
+<br>
+
 # Tools of the Trade
 
 Coder Academy students can freely apply for accounts on the websites below.
+
+<br>
 
 ## Codepen.io
 
@@ -40,11 +54,15 @@ Codepen is a website where you can test out your code and view other peoples wor
 
 * [http://codepen.io/](http://codepen.io/)
 
+<br>
+
 ## Hackernews
 
 A news resource frequented by many IT professionals and owned by the largest venture capital firm in the world. This website will help you see what cool projects are going on in the IT space, don't feel you have to understand it all.
 
 * [https://news.ycombinator.com/](https://news.ycombinator.com/)
+
+<br>
 
 ## Stack Overflow
 
@@ -52,11 +70,15 @@ This is the bible for software developers. It will become your best friend form 
 
 * [https://stackoverflow.com/users/signup](https://stackoverflow.com/users/signup)
 
+<br>
+
 ## Github
 
 Please sign up for a Github account.
 
 * [https://github.com/](https://github.com/)
+
+<br>
 
 <hr>
 
