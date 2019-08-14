@@ -1,6 +1,4 @@
-```
-Please complete this prework before the start of the course to the best of your ability. These tutorial tools will help introduce you to the command line, HTML/CSS and Ruby.
-```
+`Please complete this prework before the start of the course to the best of your ability. These tutorial tools will help introduce you to the command line, HTML/CSS and Ruby.`
 
 <br>
 
