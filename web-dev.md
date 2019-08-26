@@ -45,9 +45,13 @@ Codepen is a website where you can test out your code and view other peoples wor
 
 * [http://codepen.io/](http://codepen.io/)
 
-### Vim (super hardcore tool to learn and optional tool to learn)
+### Vim (super hardcore tool to learn and optional)
 
-Some developers enjoy using a text editor called Vim. Vim has its own "language" which allows you to efficiently and precisely edit code or any text. It is not essential, but it is useful to know the basics of it because it is a text editor that can be found on most systems (except Windows systems). On OSX and Linux system type `vim` in the terminal and you will be in Vim! There is also the `vimtutor` command that provides you with an introduction on how to use Vim. Also check out [Vim Adventures]() for a game that shows your how to use Vim's keybindings.
+Vim is a text editor that has its own "language" which allows you to efficiently and precisely edit code or any text. 
+
+It is not essential to learn, but it is useful to know the basics because it is a text editor that can be found on most systems (except Windows systems). 
+
+On OSX and Linux systems running `vim` in the terminal will get you into Vim - if you are on Windows you can [install Vim](https://www.vim.org/download.php#pc). Also check out [Vim Adventures](https://vim-adventures.com/) for a game that shows your how to use Vim's keybindings.
 
 In any case, just remember, if you are ever stuck in Vim: typing `:q` to quit will get you back to the terminal.
 
