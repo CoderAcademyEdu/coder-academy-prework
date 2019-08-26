@@ -7,3 +7,5 @@ include:
   - web-dev.md
   - cyber-security.md
 theme: jekyll-theme-cayman
+timezone: Australia/Sydney
+

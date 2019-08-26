@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.text-center {
+  text-align: center;
+}
+
+.text-red {
+  color: darkred;
+}
+
+.text-blue {
+  color: darkblue;
+}
+
+.text-green {
+  color: darkgreen;
+}
+
+.grey-background {
+  background-color: #333;
+}
+
+
