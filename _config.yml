@@ -8,3 +8,4 @@ include:
   - cyber-security.md
 theme: jekyll-theme-minimal 
 timezone: Australia/Sydney
+logo: assets/images/coder-logo.jpg
