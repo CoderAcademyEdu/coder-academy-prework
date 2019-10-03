@@ -8,7 +8,7 @@ Please complete the following tutorials and tasks to the best of your ability. T
 
 The command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run.
 
-* **Complete all free components:** [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
+* **Complete all free components:** [https://www.udemy.com/course/linux-command-line-for-beginners-42/](https://www.udemy.com/course/linux-command-line-for-beginners-42/)
 
 ## HTML/CSS
 
